@@ -61,6 +61,17 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				// Cores personalizadas para o Foto Flow Hub
+				fotoflow: {
+					purple: '#9B87F5',
+					blue: '#1EAEDB',
+					pink: '#D946EF',
+					darkbg: '#1A1F2C',
+					lighttext: '#F1F0FB',
+					success: '#10B981',
+					warning: '#F59E0B',
+					danger: '#EF4444',
 				}
 			},
 			borderRadius: {
